@@ -50,14 +50,7 @@ This project leverages **Machine Learning (ANN - Artificial Neural Network)** an
 --Optimizer: RMSprop
 
 --Evaluation: MAE, R² score
-## 📁 Project Structure
-House_price_prediction_web_app/
 
--├── app.py                  # Streamlit frontend
--├── model_ann.h5            # Trained ANN model
--├── scaler.pkl              # Pre-trained MinMaxScaler
--├── requirements.txt        # Python dependencies
--└── README.md               
 ## 📊 Example Input & Output
 | Input Feature   | Value      |
 | --------------- | ---------- |
@@ -71,9 +64,25 @@ House_price_prediction_web_app/
 | Median Income   | 4.5        |
 | Ocean Proximity | NEAR OCEAN |
 
+```bash
+streamlit run app.py
+python main.py
+
+📁 Project Structure
+House_price_prediction_web_app/
+│
+├── app.py                  # Streamlit frontend
+├── model_ann.h5            # Trained ANN model
+├── scaler.pkl              # Pre-trained MinMaxScaler
+├── requirements.txt        # Python dependencies
+└── README.md              
+
+
+
 ## 🙋‍♂️ Author
 Anil Katwal
 Machine Learning Engineer | Data Scientist
 📧 aniljungkatwal@gmail.com
 🔗 LinkedIn • GitHub
+
 
