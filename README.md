@@ -2,7 +2,7 @@
 
 Welcome to the **House Price Prediction Web App** — a powerful, intelligent tool that predicts the price of a house based on key features like location, room count, median income, and proximity to the ocean.
 
-This project leverages **Machine Learning (ANN - Artificial Neural Network)** and a clean **Streamlit-based web interface** to offer an intuitive, interactive experience for users to estimate real estate prices.
+This project leverages **Machine Learning (ANN - Artificial Neural Network)** and a clean **Flask** and **Streamlit-based web interface** to offer an intuitive, interactive experience for users to estimate real estate prices.
 
 ---
 
