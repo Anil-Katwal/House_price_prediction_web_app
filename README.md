@@ -53,11 +53,11 @@ This project leverages **Machine Learning (ANN - Artificial Neural Network)** an
 ## 📁 Project Structure
 House_price_prediction_web_app/
 
-├── app.py                  # Streamlit frontend
-├── model_ann.h5            # Trained ANN model
-├── scaler.pkl              # Pre-trained MinMaxScaler
-├── requirements.txt        # Python dependencies
-└── README.md               # Project description (you’re here!)
+-├── app.py                  # Streamlit frontend
+-├── model_ann.h5            # Trained ANN model
+-├── scaler.pkl              # Pre-trained MinMaxScaler
+-├── requirements.txt        # Python dependencies
+-└── README.md               
 ## 📊 Example Input & Output
 | Input Feature   | Value      |
 | --------------- | ---------- |
